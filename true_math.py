@@ -1,8 +1,8 @@
-ораоплюлоюрлмоимрою
-эдрломобрмоби
-лтмормро
+from math import inf
+
+def divide(first, second):
+    if second == 0:
+        return inf
 
 
-
-
-люорморобрм
+    return  first/second
